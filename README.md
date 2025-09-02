@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Janaka Herath
 - 👀 I’m interested in Anime/Gaming/Movies
-- 🌱 I’m currently learning Quality Assurance 
 
 
 <!---
